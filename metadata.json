@@ -1,0 +1,7 @@
+{
+  "name": "Rishabh Kumar Gupta - Advanced Portfolio",
+  "description": "A high-end, futuristic developer portfolio for an AI Engineer and Full Stack Developer featuring 3D elements, smooth animations, and a sleek dark theme.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
